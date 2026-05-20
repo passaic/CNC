@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" width="1440pt" height="1440pt" viewBox="0 0 1440 1440" xmlns="http://www.w3.org/2000/svg">
+  <defs />
+  <g id="cut_outs">
+    <path d="M376.77545,505.92917 A371.04617,371.04617 0 0 1 730.45844,876.60065 L915.99817,876.60065 A556.5693,556.5693 0 0 0 385.4737,320.5934 z" stroke="#C80000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M128.54596,290.70706 L128.54596,856.1937 L308.54596,856.1937 L308.54596,290.70706 z" stroke="#C80000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M839.78784,456.3813 A201.24527,201.24527 0 0 1 1035.9146,801.51904 L1162.8602,957.6755 A402.49054,402.49054 0 0 0 770.6067,267.3999 z" stroke="#C80000" stroke-width="0.24" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <circle cx="342.2" cy="1107" r="90" stroke="#C80000" stroke-width="0.24" fill="none" />
+  </g>
+</svg>
